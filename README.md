@@ -30,6 +30,5 @@ Credit Card Categories: Performance of different card categories (e.g., Blue, Si
 ### SQL (Postgre SQL)
 ### Power BI
 
-# Thank You
 
 
